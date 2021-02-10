@@ -6,10 +6,10 @@ def gridas_izmaksa(cena, linoleja_platums, telpas_platums, telpas_garums):
 
     return izmaksa
 
-cena1 = 3.15
+cena1 = 2.25
 linoleja_platums1 = 2.0
-platums1 = 6.25
-garums1 = 7.0
+platums1 = 5.25
+garums1 = 6.0
 
 print("izklājot garumā:")
 print(gridas_izmaksas(cena1, linoleja_platums1, platums1, garums1))
